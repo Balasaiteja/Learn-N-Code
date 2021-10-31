@@ -1,0 +1,46 @@
+body{
+ background-image : url("https://res.cloudinary.com/dysdxjzxn/image/upload/v1635693659/img2_bcepct.jpg");
+ font-family : Cursive;
+
+}
+h1{
+  padding-left: 410px;
+  color : white;
+  font-size : 60px;
+}
+
+.grid{
+  padding : 4em;
+
+}
+
+.grid-item{
+  display : flex;
+  flex-wrap : wrap;
+  grid-gap : 5em;
+}
+.c{
+  border : #dda15e 1px solid;
+  height : 140px;
+  width : 280px;
+  padding : 1em;
+  color : white;
+  background : #dda15e;
+  border-radius : 8px;
+
+}
+
+a{
+  color : white;
+  padding : 7px 14px;
+  background-color: #0f4c5c;
+  border : 1px #0f4c5c solid ;
+  border-radius : 4px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+img{
+  float : right;
+}
